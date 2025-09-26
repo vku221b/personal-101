@@ -1,6 +1,6 @@
 # Vadym Kuzmenko
 
-# Senior Software Engineer/Scrum master
+# Senior Software/Data Engineer/Scrum master
 
 # Summary
 15 years of experience. In the industry since 2009.
