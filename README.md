@@ -23,6 +23,17 @@ and many many more... Will continue adding as this repo grows...
 * Bachelor in EE. 91/100
 * * Second individual, second team place in All Ukranian Students' Olympic
 
+# Additional courses and certifications
+* Azure DP-203
+* Innovations in Healthcare
+* Introduction to ML by Andrew Ng
+* Introduction to Algorithms by Robert Sedgwig. Part 1.
+* FP101: Introduction to Functional Programming with Haskell.
+* Introduction to Scalable Machine Learning with Apache Spark.
+* Introduction to Artificial Intelligence by Sebastian Trun and Peter Norvig
+* CS373: Artifical Intelligence for Robotics by Sebastian Trun
+* 223 solved problems on Leetcode if this ever matters
+
 # Work experience
 * **2021 - 2025** - Senior Data Engineer - Teladoc Inc.
 * **2017 - 2021** - Senior Software Engineer - Oracle Inc.
