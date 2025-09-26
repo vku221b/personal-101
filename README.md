@@ -32,7 +32,7 @@ and many many more... Will continue adding as this repo grows...
 * Introduction to Scalable Machine Learning with Apache Spark.
 * Introduction to Artificial Intelligence by Sebastian Trun and Peter Norvig
 * CS373: Artifical Intelligence for Robotics by Sebastian Trun
-* 223 solved problems on Leetcode if this ever matters
+* 223 solved problems on Leetcode if this even matters
 
 # Work experience
 * **2021 - 2025** - Senior Data Engineer - Teladoc Inc.
