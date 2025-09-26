@@ -24,6 +24,7 @@ and many many more... Will continue adding as this repo grows...
 * * Second individual, second team place in All Ukranian Students' Olympic
 
 # Additional courses and certifications
+* Snowflake Data Warehousing Workshop (Badge 1)
 * Azure DP-203
 * Innovations in Healthcare
 * Introduction to ML by Andrew Ng
